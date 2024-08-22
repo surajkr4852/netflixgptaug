@@ -4,8 +4,14 @@
 -npx create-react-app netflix-gpt
 -Configured Tailwind
 -Header
+-Routing of App
 -Login Form
 -Sign Up form
+-Form Validation
+-useRef Hook
+-Firebase Setup
+-Deploying our app to production
+-Create signUp user account 
 
 # Features
 Browse page comes when you are loggedin
